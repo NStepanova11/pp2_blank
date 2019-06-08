@@ -18,4 +18,5 @@ private:
 	int GetTotalBalance();
 	void SetTotalBalance(int value);
 	void SomeLongOperations();
+	std::vector<CBankClient> GetAllClients();
 };

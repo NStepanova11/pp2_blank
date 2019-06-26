@@ -18,4 +18,5 @@ private:
 
 	CBank *m_bank;
 	unsigned m_id;
+	HANDLE m_handle;
 };
